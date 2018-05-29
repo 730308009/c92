@@ -1,0 +1,2 @@
+1.如果手动修改了composer.json文件中的autoload,需要执行composer dump
+2.如果手动修改了composer.json文件中的require,需要执行composer update
